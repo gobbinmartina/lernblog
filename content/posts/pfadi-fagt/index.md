@@ -1,6 +1,6 @@
 +++
 title = "Pfadi fägt!"
-date = "2022-12-02"
+date = "2022-12-03"
 draft = false
 pinned = false
 image = "pexels-cottonbro-studio-9303753-2-1-.jpg"
