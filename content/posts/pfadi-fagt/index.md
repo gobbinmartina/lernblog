@@ -65,9 +65,7 @@ In der Schweiz organisiert die Pfadibewegung Schweiz (PBS) nationale Anliegen wi
 
 {{</box>}}
 
-## Die Pfadierfahrung als Werkzeug 
-
-
+## Die Pfadierfahrung als Werkzeug
 
 «Jeder nimmt etwas anderes mit, aber etwas nimmt man sicher mit», behauptet Smile in unserem Interview. Doch was sind nun die positiven Auswirkungen der Pfadi? Smile erzählt von einem Erlebnis eines Leiters. Als Sechzehnjähriger habe er ohne jegliche Einwände eine Lehre angefangen. Derselbe Lehrmeister, der ihn eingestellt habe, habe einen zwanzigjährigen Gymnasiasten jedoch nicht eingestellt. Dieser sei zu jung und habe keine Lebenserfahrung. Auf die Frage des Pfadileiters, wieso der Lehrmeister ihn eingestellt habe, erhielt er diese Antwort: «Weil du ein Pfadfinder bist.» Smile meint weiter, dass die Pfadi ein gutes Werkzeug für den Rest ihres Lebens sei.
 
