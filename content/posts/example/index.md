@@ -1,5 +1,5 @@
 +++
-title = "Example Post"
+title = "Example Post..."
 date = "2022-10-24"
 draft = false
 pinned = false
