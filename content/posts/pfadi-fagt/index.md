@@ -1,7 +1,7 @@
 +++
 title = "Pfadi fägt!"
 date = "2022-12-02"
-draft = false
+draft = true
 pinned = false
 image = "pexels-cottonbro-studio-9303753-2-1-.jpg"
 description = "Eine Reportage über die Pfadi."
