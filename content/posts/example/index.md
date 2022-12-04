@@ -1,9 +1,9 @@
 +++
 title = "Example Post"
 date = "2022-10-24"
-draft = false
+draft = true
 pinned = false
-tags = ["Example", "Lernblog"]
+tags = ["Lilo", "Example"]
 image = "/img/default-image.jpg"
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
@@ -41,13 +41,13 @@ Natürlich gibt es auch **fett** und _kursiv_.
 
 ### Links
 
-[So können Links angegeben werden](https://www.lernblog.org). Wenn man in den `Markdown`-Modus wechselt, sieht man auch, welcher Link hinterlegt worden ist.
+[So können Links angegeben werden](https://www.lilo.blog). Wenn man in den `Markdown`-Modus wechselt, sieht man auch, welcher Link hinterlegt worden ist.
 
 ### Zitate
 
 > «Zitate können hervorgehoben werden.»
 >
-> _Autor mit [Link zur Quelle](https://www.lernblog.org)_
+> _Autor mit [Link zur Quelle](https://www.lilo.blog)_
 
 Die Quellenangabe muss _kursiv_ geschrieben werden, damit sie als Fusszeile erkannt wird.
 
@@ -162,4 +162,4 @@ sun1 === sun2;
 
 ## Spass haben
 
-😀 Viel Spass mit deinem Lernblog!
+😀 Viel Spass mit deinem Blog!
