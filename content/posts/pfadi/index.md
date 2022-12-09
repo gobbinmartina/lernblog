@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "pexels-cottonbro-studio-9303753-2-1-.jpg"
 description = "Eine Reportage über die Pfadi."
-footnotes = "Von: Martina Gobbin und Gaia Isch\n\nFotos: Gaia Ischi\n\nFoto Titel: cottonbro studio"
+footnotes = "Von: Martina Gobbin und Gaia Ischi\n\nFotos: Gaia Ischi\n\nFoto Titel: cottonbro studio"
 +++
 
 {{<lead>}}
