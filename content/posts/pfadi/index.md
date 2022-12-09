@@ -10,7 +10,7 @@ footnotes = "Von: Martina Gobbin und Gaia Ischi\n\nFotos: Gaia Ischi\n\nFoto Tit
 +++
 {{<lead>}}
 
-Woher kommt die Pfadi? Welche Auswirkungen hat die Pfadi auf die Pfadfinder:innen? Wir haben uns auf die Suche nach Antworten begeben.      Ein Reportage von Martina Gobbin und Gaia Ischi
+Woher kommt die Pfadi? Welche Auswirkungen hat die Pfadi auf die Pfadfinder:innen? Wir haben uns auf die Suche nach Antworten begeben.      Ein Reportage von Martina Gobbin und Gaia Ischi.
 
 {{</lead>}}
 
