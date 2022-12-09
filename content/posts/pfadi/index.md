@@ -12,8 +12,6 @@ footnotes = "Von: Martina Gobbin und Gaia Ischi\n\nFotos: Gaia Ischi\n\nFoto Tit
 
 Woher kommt die Pfadi? Welche Auswirkungen hat die Pfadi auf die Pfadfinder:innen? Wir haben uns auf die Suche nach Antworten begeben.
 
-Eine Reportage von Martina Gobbin und Gaia Ischi
-
 {{</lead>}}
 
 Der Täter ist entlarvt, die Pfadfinder:innen sind glücklich. Nach zwei Stunden Schnitzeljagd machen wir uns auf den Weg zurück zum Pfadiheim, welches neben einem Feldweg auf einem Hügel liegt. Die Stimmung ist gelassen, Essen wird geteilt und zum Schluss stehen wir alle in einem Kreis, schreien einen Pfadispruch. Die gute Laune ist ansteckend, fast schon elektrisierend.
