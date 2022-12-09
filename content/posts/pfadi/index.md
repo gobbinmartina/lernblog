@@ -18,7 +18,7 @@ Woher kommt die Pfadi? Welche Auswirkungen hat die Pfadi auf die Pfadfinder:inne
 
 Der Täter ist entlarvt, die Pfadfinder:innen sind glücklich. Nach zwei Stunden Schnitzeljagd machen wir uns auf den Weg zurück zum Pfadiheim, welches neben einem Feldweg auf einem Hügel liegt. Die Stimmung ist gelassen, Essen wird geteilt und zum Schluss stehen wir alle in einem Kreis, schreien einen Pfadispruch. Die gute Laune ist ansteckend, fast schon elektrisierend.
 
-![Das Pfadiheim in Worb (Foto: Gaia Ischi](pfadiheim-1-.jpg)
+![Das Pfadiheim in Worb (Foto: Gaia Ischi)](pfadiheim-1-.jpg)
 
 Unsere Geschichte beginnt einige Stunden davor: Als wir um zwölf beim Pfadiheim eintreffen, sind die Leiter:innen in ihre letzten Vorbereitungen für die Aktivität an diesem Samstagnachmittag vertieft. Kostüme werden zurechtgelegt, Hinweise für eine Schnitzeljagd gelegt und der Zeitplan überarbeitet. Die Kinder werden um zwei Uhr eintreffen, und bis dahin muss alles bereit sein, denn heute ist ein besonderer Tag in Worb: Es ist das Generationenfest. Im Rahmen dieses Dorffestes haben viele Leute Stände aufgestellt, um Handarbeiten, Essen und Weiteres zu verkaufen. So hat auch die Pfadi einen Informationsstand. Für die Pfadi ist das eine gute Gelegenheit, neue Mitglieder zu rekrutieren.
 
